@@ -1,0 +1,16 @@
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.AssemblyInfoInputs.cache
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.AssemblyInfo.cs
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.csproj.CoreCompileInputs.cache
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.sourcelink.json
+C:\Deva\C#\SinglyLinked\SinglyLinked\bin\Debug\net10.0\SinglyLinked.exe
+C:\Deva\C#\SinglyLinked\SinglyLinked\bin\Debug\net10.0\SinglyLinked.deps.json
+C:\Deva\C#\SinglyLinked\SinglyLinked\bin\Debug\net10.0\SinglyLinked.runtimeconfig.json
+C:\Deva\C#\SinglyLinked\SinglyLinked\bin\Debug\net10.0\SinglyLinked.dll
+C:\Deva\C#\SinglyLinked\SinglyLinked\bin\Debug\net10.0\SinglyLinked.pdb
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.dll
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\refint\SinglyLinked.dll
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.pdb
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLinked.genruntimeconfig.cache
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\ref\SinglyLinked.dll
+C:\Deva\C#\SinglyLinked\SinglyLinked\obj\Debug\net10.0\SinglyLi.8D4EF09B.Up2Date
