@@ -1,0 +1,15 @@
+C:\Deva\C#\Palindrome\Palindrome\bin\Debug\net10.0\Palindrome.exe
+C:\Deva\C#\Palindrome\Palindrome\bin\Debug\net10.0\Palindrome.deps.json
+C:\Deva\C#\Palindrome\Palindrome\bin\Debug\net10.0\Palindrome.runtimeconfig.json
+C:\Deva\C#\Palindrome\Palindrome\bin\Debug\net10.0\Palindrome.dll
+C:\Deva\C#\Palindrome\Palindrome\bin\Debug\net10.0\Palindrome.pdb
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfoInputs.cache
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.AssemblyInfo.cs
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.dll
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\refint\Palindrome.dll
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.pdb
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.genruntimeconfig.cache
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\ref\Palindrome.dll
+C:\Deva\C#\Palindrome\Palindrome\obj\Debug\net10.0\Palindrome.csproj.Up2Date

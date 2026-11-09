@@ -1,0 +1,15 @@
+C:\Deva\C#\BinaryIt\BinaryIt\bin\Debug\net10.0\BinaryIt.exe
+C:\Deva\C#\BinaryIt\BinaryIt\bin\Debug\net10.0\BinaryIt.deps.json
+C:\Deva\C#\BinaryIt\BinaryIt\bin\Debug\net10.0\BinaryIt.runtimeconfig.json
+C:\Deva\C#\BinaryIt\BinaryIt\bin\Debug\net10.0\BinaryIt.dll
+C:\Deva\C#\BinaryIt\BinaryIt\bin\Debug\net10.0\BinaryIt.pdb
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.AssemblyInfoInputs.cache
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.AssemblyInfo.cs
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.csproj.CoreCompileInputs.cache
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.dll
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\refint\BinaryIt.dll
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.pdb
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.genruntimeconfig.cache
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\ref\BinaryIt.dll
+C:\Deva\C#\BinaryIt\BinaryIt\obj\Debug\net10.0\BinaryIt.csproj.Up2Date

@@ -1,0 +1,15 @@
+C:\Deva\C#\StringCompression\StringCompression\bin\Debug\net10.0\StringCompression.exe
+C:\Deva\C#\StringCompression\StringCompression\bin\Debug\net10.0\StringCompression.deps.json
+C:\Deva\C#\StringCompression\StringCompression\bin\Debug\net10.0\StringCompression.runtimeconfig.json
+C:\Deva\C#\StringCompression\StringCompression\bin\Debug\net10.0\StringCompression.dll
+C:\Deva\C#\StringCompression\StringCompression\bin\Debug\net10.0\StringCompression.pdb
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.AssemblyInfoInputs.cache
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.AssemblyInfo.cs
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.csproj.CoreCompileInputs.cache
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.dll
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\refint\StringCompression.dll
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.pdb
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCompression.genruntimeconfig.cache
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\ref\StringCompression.dll
+C:\Deva\C#\StringCompression\StringCompression\obj\Debug\net10.0\StringCo.E42DB103.Up2Date

@@ -1,0 +1,15 @@
+C:\Deva\C#\LongestSubstring\LongestSubstring\bin\Debug\net10.0\LongestSubstring.exe
+C:\Deva\C#\LongestSubstring\LongestSubstring\bin\Debug\net10.0\LongestSubstring.deps.json
+C:\Deva\C#\LongestSubstring\LongestSubstring\bin\Debug\net10.0\LongestSubstring.runtimeconfig.json
+C:\Deva\C#\LongestSubstring\LongestSubstring\bin\Debug\net10.0\LongestSubstring.dll
+C:\Deva\C#\LongestSubstring\LongestSubstring\bin\Debug\net10.0\LongestSubstring.pdb
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.AssemblyInfoInputs.cache
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.AssemblyInfo.cs
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.csproj.CoreCompileInputs.cache
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.dll
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\refint\LongestSubstring.dll
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.pdb
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestSubstring.genruntimeconfig.cache
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\ref\LongestSubstring.dll
+C:\Deva\C#\LongestSubstring\LongestSubstring\obj\Debug\net10.0\LongestS.03121A77.Up2Date

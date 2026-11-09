@@ -1,0 +1,15 @@
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\net10.0\KadaneAlgorithm.exe
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\net10.0\KadaneAlgorithm.deps.json
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\net10.0\KadaneAlgorithm.runtimeconfig.json
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\net10.0\KadaneAlgorithm.dll
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\bin\Debug\net10.0\KadaneAlgorithm.pdb
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.AssemblyInfoInputs.cache
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.AssemblyInfo.cs
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.csproj.CoreCompileInputs.cache
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.dll
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\refint\KadaneAlgorithm.dll
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.pdb
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAlgorithm.genruntimeconfig.cache
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\ref\KadaneAlgorithm.dll
+C:\Deva\C#\KadaneAlgorithm\KadaneAlgorithm\obj\Debug\net10.0\KadaneAl.9F4D5154.Up2Date

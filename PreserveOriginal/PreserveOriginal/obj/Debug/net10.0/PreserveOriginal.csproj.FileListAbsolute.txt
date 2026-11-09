@@ -1,0 +1,15 @@
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\bin\Debug\net10.0\PreserveOriginal.exe
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\bin\Debug\net10.0\PreserveOriginal.deps.json
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\bin\Debug\net10.0\PreserveOriginal.runtimeconfig.json
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\bin\Debug\net10.0\PreserveOriginal.dll
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\bin\Debug\net10.0\PreserveOriginal.pdb
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.AssemblyInfoInputs.cache
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.AssemblyInfo.cs
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.csproj.CoreCompileInputs.cache
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.dll
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\refint\PreserveOriginal.dll
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.pdb
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\PreserveOriginal.genruntimeconfig.cache
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\ref\PreserveOriginal.dll
+C:\Deva\C#\PreserveOriginal\PreserveOriginal\obj\Debug\net10.0\Preserve.73214FC7.Up2Date

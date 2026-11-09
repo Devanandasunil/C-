@@ -1,0 +1,15 @@
+C:\Deva\C#\PerString\PerString\bin\Debug\net10.0\PerString.exe
+C:\Deva\C#\PerString\PerString\bin\Debug\net10.0\PerString.deps.json
+C:\Deva\C#\PerString\PerString\bin\Debug\net10.0\PerString.runtimeconfig.json
+C:\Deva\C#\PerString\PerString\bin\Debug\net10.0\PerString.dll
+C:\Deva\C#\PerString\PerString\bin\Debug\net10.0\PerString.pdb
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.AssemblyInfoInputs.cache
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.AssemblyInfo.cs
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.csproj.CoreCompileInputs.cache
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.dll
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\refint\PerString.dll
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.pdb
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.genruntimeconfig.cache
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\ref\PerString.dll
+C:\Deva\C#\PerString\PerString\obj\Debug\net10.0\PerString.csproj.Up2Date

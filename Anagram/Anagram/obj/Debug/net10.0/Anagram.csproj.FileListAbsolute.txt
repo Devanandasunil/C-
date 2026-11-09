@@ -1,0 +1,15 @@
+C:\Deva\C#\Anagram\Anagram\bin\Debug\net10.0\Anagram.exe
+C:\Deva\C#\Anagram\Anagram\bin\Debug\net10.0\Anagram.deps.json
+C:\Deva\C#\Anagram\Anagram\bin\Debug\net10.0\Anagram.runtimeconfig.json
+C:\Deva\C#\Anagram\Anagram\bin\Debug\net10.0\Anagram.dll
+C:\Deva\C#\Anagram\Anagram\bin\Debug\net10.0\Anagram.pdb
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.AssemblyInfoInputs.cache
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.AssemblyInfo.cs
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.dll
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\refint\Anagram.dll
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.pdb
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.genruntimeconfig.cache
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\ref\Anagram.dll
+C:\Deva\C#\Anagram\Anagram\obj\Debug\net10.0\Anagram.csproj.Up2Date

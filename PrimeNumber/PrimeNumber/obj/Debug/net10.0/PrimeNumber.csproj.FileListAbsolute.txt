@@ -1,0 +1,15 @@
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.AssemblyInfo.cs
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Deva\C#\PrimeNumber\PrimeNumber\bin\Debug\net10.0\PrimeNumber.exe
+C:\Deva\C#\PrimeNumber\PrimeNumber\bin\Debug\net10.0\PrimeNumber.deps.json
+C:\Deva\C#\PrimeNumber\PrimeNumber\bin\Debug\net10.0\PrimeNumber.runtimeconfig.json
+C:\Deva\C#\PrimeNumber\PrimeNumber\bin\Debug\net10.0\PrimeNumber.dll
+C:\Deva\C#\PrimeNumber\PrimeNumber\bin\Debug\net10.0\PrimeNumber.pdb
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.dll
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\refint\PrimeNumber.dll
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.pdb
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNumber.genruntimeconfig.cache
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\ref\PrimeNumber.dll
+C:\Deva\C#\PrimeNumber\PrimeNumber\obj\Debug\net10.0\PrimeNum.EBA691F6.Up2Date

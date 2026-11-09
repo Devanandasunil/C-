@@ -1,0 +1,15 @@
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.AssemblyInfoInputs.cache
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.AssemblyInfo.cs
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Deva\C#\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.exe
+C:\Deva\C#\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.deps.json
+C:\Deva\C#\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.runtimeconfig.json
+C:\Deva\C#\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.dll
+C:\Deva\C#\TwoSum\TwoSum\bin\Debug\net10.0\TwoSum.pdb
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.dll
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\refint\TwoSum.dll
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.pdb
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.genruntimeconfig.cache
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\ref\TwoSum.dll
+C:\Deva\C#\TwoSum\TwoSum\obj\Debug\net10.0\TwoSum.csproj.Up2Date

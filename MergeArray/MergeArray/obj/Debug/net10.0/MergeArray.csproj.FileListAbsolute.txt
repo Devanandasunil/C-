@@ -1,0 +1,15 @@
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.AssemblyInfoInputs.cache
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.AssemblyInfo.cs
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.csproj.CoreCompileInputs.cache
+C:\Deva\C#\MergeArray\MergeArray\bin\Debug\net10.0\MergeArray.exe
+C:\Deva\C#\MergeArray\MergeArray\bin\Debug\net10.0\MergeArray.deps.json
+C:\Deva\C#\MergeArray\MergeArray\bin\Debug\net10.0\MergeArray.runtimeconfig.json
+C:\Deva\C#\MergeArray\MergeArray\bin\Debug\net10.0\MergeArray.dll
+C:\Deva\C#\MergeArray\MergeArray\bin\Debug\net10.0\MergeArray.pdb
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.dll
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\refint\MergeArray.dll
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.pdb
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.genruntimeconfig.cache
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\ref\MergeArray.dll
+C:\Deva\C#\MergeArray\MergeArray\obj\Debug\net10.0\MergeArray.csproj.Up2Date

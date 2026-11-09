@@ -1,0 +1,15 @@
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.AssemblyInfoInputs.cache
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.AssemblyInfo.cs
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.csproj.CoreCompileInputs.cache
+C:\Deva\C#\CountBits\CountBits\bin\Debug\net10.0\CountBits.exe
+C:\Deva\C#\CountBits\CountBits\bin\Debug\net10.0\CountBits.deps.json
+C:\Deva\C#\CountBits\CountBits\bin\Debug\net10.0\CountBits.runtimeconfig.json
+C:\Deva\C#\CountBits\CountBits\bin\Debug\net10.0\CountBits.dll
+C:\Deva\C#\CountBits\CountBits\bin\Debug\net10.0\CountBits.pdb
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.dll
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\refint\CountBits.dll
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.pdb
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.genruntimeconfig.cache
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\ref\CountBits.dll
+C:\Deva\C#\CountBits\CountBits\obj\Debug\net10.0\CountBits.csproj.Up2Date

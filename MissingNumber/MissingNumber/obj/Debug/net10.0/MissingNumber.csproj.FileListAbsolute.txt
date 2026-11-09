@@ -1,0 +1,15 @@
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.AssemblyInfoInputs.cache
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.AssemblyInfo.cs
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Deva\C#\MissingNumber\MissingNumber\bin\Debug\net10.0\MissingNumber.exe
+C:\Deva\C#\MissingNumber\MissingNumber\bin\Debug\net10.0\MissingNumber.deps.json
+C:\Deva\C#\MissingNumber\MissingNumber\bin\Debug\net10.0\MissingNumber.runtimeconfig.json
+C:\Deva\C#\MissingNumber\MissingNumber\bin\Debug\net10.0\MissingNumber.dll
+C:\Deva\C#\MissingNumber\MissingNumber\bin\Debug\net10.0\MissingNumber.pdb
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.dll
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\refint\MissingNumber.dll
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.pdb
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingNumber.genruntimeconfig.cache
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\ref\MissingNumber.dll
+C:\Deva\C#\MissingNumber\MissingNumber\obj\Debug\net10.0\MissingN.54E42516.Up2Date

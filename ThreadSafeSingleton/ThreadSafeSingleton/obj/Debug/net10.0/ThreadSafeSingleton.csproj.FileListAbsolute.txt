@@ -1,0 +1,15 @@
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.AssemblyInfoInputs.cache
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.AssemblyInfo.cs
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.csproj.CoreCompileInputs.cache
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\net10.0\ThreadSafeSingleton.exe
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\net10.0\ThreadSafeSingleton.deps.json
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\net10.0\ThreadSafeSingleton.runtimeconfig.json
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\net10.0\ThreadSafeSingleton.dll
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\bin\Debug\net10.0\ThreadSafeSingleton.pdb
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.dll
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\refint\ThreadSafeSingleton.dll
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.pdb
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSafeSingleton.genruntimeconfig.cache
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ref\ThreadSafeSingleton.dll
+C:\Deva\C#\ThreadSafeSingleton\ThreadSafeSingleton\obj\Debug\net10.0\ThreadSa.E115EDC7.Up2Date

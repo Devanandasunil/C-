@@ -1,0 +1,15 @@
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.AssemblyInfoInputs.cache
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.AssemblyInfo.cs
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.csproj.CoreCompileInputs.cache
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\bin\Debug\net10.0\IntersectionArrays.exe
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\bin\Debug\net10.0\IntersectionArrays.deps.json
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\bin\Debug\net10.0\IntersectionArrays.runtimeconfig.json
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\bin\Debug\net10.0\IntersectionArrays.dll
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\bin\Debug\net10.0\IntersectionArrays.pdb
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.dll
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\refint\IntersectionArrays.dll
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.pdb
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\IntersectionArrays.genruntimeconfig.cache
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\ref\IntersectionArrays.dll
+C:\Deva\C#\IntersectionArrays\IntersectionArrays\obj\Debug\net10.0\Intersec.0607B4E7.Up2Date

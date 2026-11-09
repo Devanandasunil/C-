@@ -1,0 +1,15 @@
+C:\Deva\C#\StringRotation\StringRotation\bin\Debug\net10.0\StringRotation.exe
+C:\Deva\C#\StringRotation\StringRotation\bin\Debug\net10.0\StringRotation.deps.json
+C:\Deva\C#\StringRotation\StringRotation\bin\Debug\net10.0\StringRotation.runtimeconfig.json
+C:\Deva\C#\StringRotation\StringRotation\bin\Debug\net10.0\StringRotation.dll
+C:\Deva\C#\StringRotation\StringRotation\bin\Debug\net10.0\StringRotation.pdb
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.AssemblyInfoInputs.cache
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.AssemblyInfo.cs
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.csproj.CoreCompileInputs.cache
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.dll
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\refint\StringRotation.dll
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.pdb
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRotation.genruntimeconfig.cache
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\ref\StringRotation.dll
+C:\Deva\C#\StringRotation\StringRotation\obj\Debug\net10.0\StringRo.25D5F0F9.Up2Date

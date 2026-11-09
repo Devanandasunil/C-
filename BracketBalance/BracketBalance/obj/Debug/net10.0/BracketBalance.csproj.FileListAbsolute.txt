@@ -1,0 +1,15 @@
+C:\Deva\C#\BracketBalance\BracketBalance\bin\Debug\net10.0\BracketBalance.exe
+C:\Deva\C#\BracketBalance\BracketBalance\bin\Debug\net10.0\BracketBalance.deps.json
+C:\Deva\C#\BracketBalance\BracketBalance\bin\Debug\net10.0\BracketBalance.runtimeconfig.json
+C:\Deva\C#\BracketBalance\BracketBalance\bin\Debug\net10.0\BracketBalance.dll
+C:\Deva\C#\BracketBalance\BracketBalance\bin\Debug\net10.0\BracketBalance.pdb
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.AssemblyInfoInputs.cache
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.AssemblyInfo.cs
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.csproj.CoreCompileInputs.cache
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.dll
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\refint\BracketBalance.dll
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.pdb
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketBalance.genruntimeconfig.cache
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\ref\BracketBalance.dll
+C:\Deva\C#\BracketBalance\BracketBalance\obj\Debug\net10.0\BracketB.059E5641.Up2Date

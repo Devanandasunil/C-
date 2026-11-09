@@ -1,0 +1,15 @@
+C:\Deva\C#\NonRepeat\NonRepeat\bin\Debug\net10.0\NonRepeat.exe
+C:\Deva\C#\NonRepeat\NonRepeat\bin\Debug\net10.0\NonRepeat.deps.json
+C:\Deva\C#\NonRepeat\NonRepeat\bin\Debug\net10.0\NonRepeat.runtimeconfig.json
+C:\Deva\C#\NonRepeat\NonRepeat\bin\Debug\net10.0\NonRepeat.dll
+C:\Deva\C#\NonRepeat\NonRepeat\bin\Debug\net10.0\NonRepeat.pdb
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.AssemblyInfoInputs.cache
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.AssemblyInfo.cs
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.csproj.CoreCompileInputs.cache
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.dll
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\refint\NonRepeat.dll
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.pdb
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.genruntimeconfig.cache
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\ref\NonRepeat.dll
+C:\Deva\C#\NonRepeat\NonRepeat\obj\Debug\net10.0\NonRepeat.csproj.Up2Date

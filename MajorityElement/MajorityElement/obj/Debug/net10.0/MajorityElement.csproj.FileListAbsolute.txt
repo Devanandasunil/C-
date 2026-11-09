@@ -1,0 +1,15 @@
+C:\Deva\C#\MajorityElement\MajorityElement\bin\Debug\net10.0\MajorityElement.exe
+C:\Deva\C#\MajorityElement\MajorityElement\bin\Debug\net10.0\MajorityElement.deps.json
+C:\Deva\C#\MajorityElement\MajorityElement\bin\Debug\net10.0\MajorityElement.runtimeconfig.json
+C:\Deva\C#\MajorityElement\MajorityElement\bin\Debug\net10.0\MajorityElement.dll
+C:\Deva\C#\MajorityElement\MajorityElement\bin\Debug\net10.0\MajorityElement.pdb
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.AssemblyInfo.cs
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.dll
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\refint\MajorityElement.dll
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.pdb
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\MajorityElement.genruntimeconfig.cache
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\ref\MajorityElement.dll
+C:\Deva\C#\MajorityElement\MajorityElement\obj\Debug\net10.0\Majority.1DE44880.Up2Date

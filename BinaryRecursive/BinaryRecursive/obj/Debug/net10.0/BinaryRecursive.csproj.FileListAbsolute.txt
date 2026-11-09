@@ -1,0 +1,15 @@
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.AssemblyInfoInputs.cache
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.AssemblyInfo.cs
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.csproj.CoreCompileInputs.cache
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\bin\Debug\net10.0\BinaryRecursive.exe
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\bin\Debug\net10.0\BinaryRecursive.deps.json
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\bin\Debug\net10.0\BinaryRecursive.runtimeconfig.json
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\bin\Debug\net10.0\BinaryRecursive.dll
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\bin\Debug\net10.0\BinaryRecursive.pdb
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.dll
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\refint\BinaryRecursive.dll
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.pdb
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRecursive.genruntimeconfig.cache
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\ref\BinaryRecursive.dll
+C:\Deva\C#\BinaryRecursive\BinaryRecursive\obj\Debug\net10.0\BinaryRe.986F8694.Up2Date

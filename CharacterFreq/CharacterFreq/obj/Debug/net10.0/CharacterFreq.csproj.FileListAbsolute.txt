@@ -1,0 +1,15 @@
+C:\Deva\C#\CharacterFreq\CharacterFreq\bin\Debug\net10.0\CharacterFreq.exe
+C:\Deva\C#\CharacterFreq\CharacterFreq\bin\Debug\net10.0\CharacterFreq.deps.json
+C:\Deva\C#\CharacterFreq\CharacterFreq\bin\Debug\net10.0\CharacterFreq.runtimeconfig.json
+C:\Deva\C#\CharacterFreq\CharacterFreq\bin\Debug\net10.0\CharacterFreq.dll
+C:\Deva\C#\CharacterFreq\CharacterFreq\bin\Debug\net10.0\CharacterFreq.pdb
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.AssemblyInfoInputs.cache
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.AssemblyInfo.cs
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.csproj.CoreCompileInputs.cache
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.dll
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\refint\CharacterFreq.dll
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.pdb
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\CharacterFreq.genruntimeconfig.cache
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\ref\CharacterFreq.dll
+C:\Deva\C#\CharacterFreq\CharacterFreq\obj\Debug\net10.0\Characte.1FD8D229.Up2Date

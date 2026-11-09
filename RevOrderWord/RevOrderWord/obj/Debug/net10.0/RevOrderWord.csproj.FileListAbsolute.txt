@@ -1,0 +1,15 @@
+C:\Deva\C#\RevOrderWord\RevOrderWord\bin\Debug\net10.0\RevOrderWord.exe
+C:\Deva\C#\RevOrderWord\RevOrderWord\bin\Debug\net10.0\RevOrderWord.deps.json
+C:\Deva\C#\RevOrderWord\RevOrderWord\bin\Debug\net10.0\RevOrderWord.runtimeconfig.json
+C:\Deva\C#\RevOrderWord\RevOrderWord\bin\Debug\net10.0\RevOrderWord.dll
+C:\Deva\C#\RevOrderWord\RevOrderWord\bin\Debug\net10.0\RevOrderWord.pdb
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.AssemblyInfoInputs.cache
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.AssemblyInfo.cs
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.csproj.CoreCompileInputs.cache
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.dll
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\refint\RevOrderWord.dll
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.pdb
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrderWord.genruntimeconfig.cache
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\ref\RevOrderWord.dll
+C:\Deva\C#\RevOrderWord\RevOrderWord\obj\Debug\net10.0\RevOrder.ACF29D01.Up2Date
