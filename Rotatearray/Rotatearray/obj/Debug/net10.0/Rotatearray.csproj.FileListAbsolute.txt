@@ -1,0 +1,16 @@
+C:\Deva\C#\Rotatearray\Rotatearray\bin\Debug\net10.0\Rotatearray.exe
+C:\Deva\C#\Rotatearray\Rotatearray\bin\Debug\net10.0\Rotatearray.deps.json
+C:\Deva\C#\Rotatearray\Rotatearray\bin\Debug\net10.0\Rotatearray.runtimeconfig.json
+C:\Deva\C#\Rotatearray\Rotatearray\bin\Debug\net10.0\Rotatearray.dll
+C:\Deva\C#\Rotatearray\Rotatearray\bin\Debug\net10.0\Rotatearray.pdb
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.AssemblyInfoInputs.cache
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.AssemblyInfo.cs
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.csproj.CoreCompileInputs.cache
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.sourcelink.json
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.dll
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\refint\Rotatearray.dll
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.pdb
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatearray.genruntimeconfig.cache
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\ref\Rotatearray.dll
+C:\Deva\C#\Rotatearray\Rotatearray\obj\Debug\net10.0\Rotatear.5EA04381.Up2Date

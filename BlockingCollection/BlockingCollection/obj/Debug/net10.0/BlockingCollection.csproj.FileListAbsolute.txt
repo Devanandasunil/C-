@@ -1,0 +1,16 @@
+C:\Deva\C#\BlockingCollection\BlockingCollection\bin\Debug\net10.0\BlockingCollection.exe
+C:\Deva\C#\BlockingCollection\BlockingCollection\bin\Debug\net10.0\BlockingCollection.deps.json
+C:\Deva\C#\BlockingCollection\BlockingCollection\bin\Debug\net10.0\BlockingCollection.runtimeconfig.json
+C:\Deva\C#\BlockingCollection\BlockingCollection\bin\Debug\net10.0\BlockingCollection.dll
+C:\Deva\C#\BlockingCollection\BlockingCollection\bin\Debug\net10.0\BlockingCollection.pdb
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.AssemblyInfoInputs.cache
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.AssemblyInfo.cs
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.csproj.CoreCompileInputs.cache
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.sourcelink.json
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.dll
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\refint\BlockingCollection.dll
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.pdb
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\BlockingCollection.genruntimeconfig.cache
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\ref\BlockingCollection.dll
+C:\Deva\C#\BlockingCollection\BlockingCollection\obj\Debug\net10.0\Blocking.637AFCDE.Up2Date

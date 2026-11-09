@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Deva\\C#\\BlockingCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A34073F2-14DA-4D33-BE53-DB749111237D}|BlockingCollection\\BlockingCollection.csproj|c:\\deva\\c#\\blockingcollection\\blockingcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A34073F2-14DA-4D33-BE53-DB749111237D}|BlockingCollection\\BlockingCollection.csproj|solutionrelative:blockingcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Deva\\C#\\BlockingCollection\\BlockingCollection\\Program.cs",
+              "RelativeDocumentMoniker": "BlockingCollection\\Program.cs",
+              "ToolTip": "C:\\Deva\\C#\\BlockingCollection\\BlockingCollection\\Program.cs*",
+              "RelativeToolTip": "BlockingCollection\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T17:54:26.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Deva\C#\LRUcache\LRUcache\bin\Debug\net10.0\LRUcache.exe
+C:\Deva\C#\LRUcache\LRUcache\bin\Debug\net10.0\LRUcache.deps.json
+C:\Deva\C#\LRUcache\LRUcache\bin\Debug\net10.0\LRUcache.runtimeconfig.json
+C:\Deva\C#\LRUcache\LRUcache\bin\Debug\net10.0\LRUcache.dll
+C:\Deva\C#\LRUcache\LRUcache\bin\Debug\net10.0\LRUcache.pdb
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.AssemblyInfoInputs.cache
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.AssemblyInfo.cs
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.csproj.CoreCompileInputs.cache
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.sourcelink.json
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.dll
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\refint\LRUcache.dll
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.pdb
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.genruntimeconfig.cache
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\ref\LRUcache.dll
+C:\Deva\C#\LRUcache\LRUcache\obj\Debug\net10.0\LRUcache.csproj.Up2Date

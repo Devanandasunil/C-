@@ -1,0 +1,16 @@
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\bin\Debug\net10.0\Floyd’sCycleDetection.exe
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\bin\Debug\net10.0\Floyd’sCycleDetection.deps.json
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\bin\Debug\net10.0\Floyd’sCycleDetection.runtimeconfig.json
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\bin\Debug\net10.0\Floyd’sCycleDetection.dll
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\bin\Debug\net10.0\Floyd’sCycleDetection.pdb
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.AssemblyInfoInputs.cache
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.AssemblyInfo.cs
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.csproj.CoreCompileInputs.cache
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.sourcelink.json
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.dll
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\refint\Floyd’sCycleDetection.dll
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.pdb
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd’sCycleDetection.genruntimeconfig.cache
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\ref\Floyd’sCycleDetection.dll
+C:\Deva\C#\Floyd’sCycleDetection\Floyd’sCycleDetection\obj\Debug\net10.0\Floyd_sC.10D4E186.Up2Date
